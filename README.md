@@ -16,7 +16,7 @@
 | Тип подключения | Адрес / Ссылка |
 | :--- | :--- |
 | **🔹 DNS (IPv4)** | `185.139.69.24` |
-| **🔹 DoH (HTTPS)** | `https://dns.astracat.ru/dns-query` |
+| **🔹 DoH с поддержкой ODoH (HTTPS)** | `https://dns.astracat.ru/dns-query` |
 | **🔹 DoT (TLS)** | `dns.astracat.ru` |
 
 ---
