@@ -237,21 +237,21 @@
 # Broadcom
 144.31.14.104 profile.broadcom.com
 # Temporarily geohide 
-185.87.51.182 gemini.google.com
-185.87.51.182 aistudio.google.com
-185.87.51.182 generativelanguage.googleapis.com
-185.87.51.182 aitestkitchen.withgoogle.com
-185.87.51.182 aisandbox-pa.googleapis.com
-185.87.51.182 webchannel-alkalimakersuite-pa.clients6.google.com
-185.87.51.182 alkalimakersuite-pa.clients6.google.com
-185.87.51.182 assistant-s3-pa.googleapis.com
-185.87.51.182 proactivebackend-pa.googleapis.com
-185.87.51.182 robinfrontend-pa.googleapis.com
-185.87.51.182 o.pki.goog
-185.87.51.182 labs.google
-185.87.51.182 notebooklm.google.com
-185.87.51.182 jules.google.com
-185.87.51.182 stitch.withgoogle.com
+45.155.204.190 gemini.google.com
+45.155.204.190 aistudio.google.com
+45.155.204.190 generativelanguage.googleapis.com
+45.155.204.190 aitestkitchen.withgoogle.com
+45.155.204.190 aisandbox-pa.googleapis.com
+45.155.204.190 webchannel-alkalimakersuite-pa.clients6.google.com
+45.155.204.190alkalimakersuite-pa.clients6.google.com
+45.155.204.190 assistant-s3-pa.googleapis.com
+45.155.204.190proactivebackend-pa.googleapis.com
+45.155.204.190 robinfrontend-pa.googleapis.com
+45.155.204.190 o.pki.goog
+45.155.204.190 labs.google
+45.155.204.190 notebooklm.google.com
+45.155.204.190 jules.google.com
+45.155.204.190 stitch.withgoogle.com
 
 # Сust 
 185.112.59.109 astranet.xyz
