@@ -1,256 +1,156 @@
-77.239.114.0 tracker.openbittorrent.com
-77.239.114.0 ntc.party
-77.239.114.0 controlplane.tailscale.com
-77.239.114.0 game.clashroyaleapp.com
-77.239.114.0 gamea.clashofclans.com
-77.239.114.0 game.brawlstarsgame.com
-77.239.114.0 game.squadbustersgame.com
-77.239.114.0 game.mocogame.com
-77.239.114.0 d.rutor.info
-77.239.114.0 instagram.com
-77.239.114.0 www.instagram.com
-77.239.114.0 b.i.instagram.com
-77.239.114.0 z-p42-chat-e2ee-ig.facebook.com
-77.239.114.0 help.instagram.com
+# /etc/hosts
+# Generated from policy.dns
 
-77.239.114.0 chatgpt.com
-77.239.114.0 ab.chatgpt.com
-77.239.114.0 auth.openai.com
-77.239.114.0 auth0.openai.com
-77.239.114.0 platform.openai.com
-77.239.114.0 cdn.oaistatic.com
-77.239.114.0 files.oaiusercontent.com
-77.239.114.0 cdn.auth0.com
-77.239.114.0 tcr9i.chat.openai.com
-77.239.114.0 webrtc.chatgpt.com
-77.239.114.0 android.chat.openai.com
-77.239.114.0 api.openai.com
-77.239.114.0 operator.chatgpt.com
-77.239.114.0 sora.chatgpt.com
-77.239.114.0 sora.com
-77.239.114.0 videos.openai.com
-77.239.114.0 ios.chat.openai.com
+127.0.0.1	localhost
+::1		localhost
 
-77.239.114.0 copilot.microsoft.com
-77.239.114.0 sydney.bing.com
-77.239.114.0 edgeservices.bing.com
-77.239.114.0 rewards.bing.com
-77.239.114.0 xsts.auth.xboxlive.com
-77.239.114.0 xgpuwebf2p.gssv-play-prod.xboxlive.com
-77.239.114.0 xgpuweb.gssv-play-prod.xboxlive.com
+# ── Static hosts (hosts_a_* rules) ──
+52.223.13.41	tracker.openbittorrent.com
 
-77.239.114.0 api.spotify.com
-77.239.114.0 login5.spotify.com
-77.239.114.0 encore.scdn.co
-77.239.114.0 gew1-spclient.spotify.com
-77.239.114.0 spclient.wg.spotify.com
-77.239.114.0 api-partner.spotify.com
-77.239.114.0 aet.spotify.com
-77.239.114.0 www.spotify.com
-77.239.114.0 accounts.spotify.com
-77.239.114.0 open.spotify.com
-77.239.114.0 accounts.scdn.co
-77.239.114.0 open-exp.spotifycdn.com
-77.239.114.0 www-growth.scdn.co
+130.255.77.28	ntc.party
 
-77.239.114.0 api.github.com
-77.239.114.0 api.individual.githubcopilot.com
-77.239.114.0 proxy.individual.githubcopilot.com
+45.155.204.190	controlplane.tailscale.com
 
-77.239.114.0 datalore.jetbrains.com
-77.239.114.0 plugins.jetbrains.com
-77.239.114.0 download.jetbrains.com
-77.239.114.0 api.jetbrains.ai
-77.239.114.0 account.jetbrains.com
+172.64.33.155	d.rutor.info
 
-# ElevenLabs
-77.239.114.0 elevenlabs.io
-77.239.114.0 api.us.elevenlabs.io
-77.239.114.0 elevenreader.io
-77.239.114.0 api.elevenlabs.io
-77.239.114.0 help.elevenlabs.io
+157.240.245.174	instagram.com
+157.240.245.174	www.instagram.com
+157.240.245.174	b.i.instagram.com
+157.240.245.174	z-p42-chat-e2ee-ig.facebook.com
+157.240.245.174	help.instagram.com
 
-# Grok
-77.239.114.0 grok.com
-77.239.114.0 accounts.x.ai
-77.239.114.0 assets.grok.com
+45.155.204.190	gemini.google.com
+45.155.204.190	aistudio.google.com
+45.155.204.190	generativelanguage.googleapis.com
+45.155.204.190	aitestkitchen.withgoogle.com
+45.155.204.190	aisandbox-pa.googleapis.com
+45.155.204.190	webchannel-alkalimakersuite-pa.clients6.google.com
+45.155.204.190	alkalimakersuite-pa.clients6.google.com
+45.155.204.190	assistant-s3-pa.googleapis.com
+45.155.204.190	proactivebackend-pa.googleapis.com
+45.155.204.190	robinfrontend-pa.googleapis.com
+45.155.204.190	o.pki.goog
+45.155.204.190	labs.google
+45.155.204.190	notebooklm.google.com
+45.155.204.190	jules.google.com
+45.155.204.190	stitch.withgoogle.com
 
-# Tidal
-77.239.114.0 api.tidal.com
-77.239.114.0 listen.tidal.com
-77.239.114.0 login.tidal.com
-77.239.114.0 auth.tidal.com
-77.239.114.0 link.tidal.com
-77.239.114.0 dd.tidal.com
-77.239.114.0 resources.tidal.com
-77.239.114.0 images.tidal.com
-77.239.114.0 fsu.fa.tidal.com
-77.239.114.0 geolocation.onetrust.com
-77.239.114.0 api.squareup.com
-77.239.114.0 api-global.squareup.com
+108.165.164.201	game.clashroyaleapp.com
 
-# Supercell
-77.239.114.0 cdn.id.supercell.com
-77.239.114.0 security.id.supercell.com
-77.239.114.0 accounts.supercell.com
-77.239.114.0 game-assets.clashroyaleapp.com
-77.239.114.0 game-assets.clashofclans.com
-77.239.114.0 clashofclans.inbox.supercell.com
-77.239.114.0 game-assets.brawlstarsgame.com
-77.239.114.0 store.supercell.com
+77.239.114.0	game.brawlstarsgame.com
+77.239.114.0	game.squadbustersgame.com
 
-# DeepL
-77.239.114.0 deepl.com
-77.239.114.0 www.deepl.com
-77.239.114.0 www2.deepl.com
-77.239.114.0 login-wall.deepl.com
-77.239.114.0 w.deepl.com
-77.239.114.0 s.deepl.com
-77.239.114.0 dict.deepl.com
-77.239.114.0 ita-free.www.deepl.com
-77.239.114.0 write-free.www.deepl.com
-77.239.114.0 experimentation.deepl.com
-77.239.114.0 experimentation-grpc.deepl.com
-77.239.114.0 ita-free.app.deepl.com
-77.239.114.0 shield.deepl.com
-77.239.114.0 ott.deepl.com
-77.239.114.0 api-free.deepl.com
-77.239.114.0 backend.deepl.com
-77.239.114.0 clearance.deepl.com
-77.239.114.0 errortracking.deepl.com
-77.239.114.0 auth.deepl.com
-77.239.114.0 oneshot-free.www.deepl.com
-77.239.114.0 checkout.www.deepl.com
-77.239.114.0 gtm.deepl.com
+2.27.63.21	astra.network
 
-# Weather.com
-77.239.114.0 weather.com
-77.239.114.0 upsx.weather.com
-
-# Fitbit
-77.239.114.0 api.fitbit.com
-77.239.114.0 fitbit-pa.googleapis.com
-77.239.114.0 fitbitvestibuleshim-pa.googleapis.com
-77.239.114.0 fitbit.google.com
-
-# Claude
-77.239.114.0 claude.ai
-77.239.114.0 console.anthropic.com
-77.239.114.0 api.anthropic.com
-
-# Trae.ai
-77.239.114.0 trae-api-sg.mchost.guru
-77.239.114.0 api.trae.ai
-77.239.114.0 api-sg-central.trae.ai
-77.239.114.0 api16-normal-alisg.mchost.guru
-
-# Linear.app
-77.239.114.0 linear.app
-77.239.114.0 client-api.linear.app
-77.239.114.0 static.linear.app
-77.239.114.0 constellation.linear.app
-77.239.114.0 uploads.linear.app
-77.239.114.0 public.linear.app
-77.239.114.0 s.linear.app
-
-# Windsurf
-77.239.114.0 windsurf.com
-77.239.114.0 codeium.com
-77.239.114.0 server.codeium.com
-77.239.114.0 web-backend.codeium.com
-77.239.114.0 unleash.codeium.com
-77.239.114.0 inference.codeium.com
-77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
-77.239.114.0 marketplace.windsurf.com
-
-# Twitch
-77.239.114.0 usher.ttvnw.net
-77.239.114.0 gql.twitch.tv
-
-# Manus
-77.239.114.0 manus.im
-77.239.114.0 api.manus.im
-
-# Notion
-77.239.114.0 www.notion.so
-77.239.114.0 calendar.notion.so
-
-# Canva
-77.239.114.0 content-management-files.canva.com
-77.239.114.0 static.canva.com
-
-# Intel
-77.239.114.0 www.intel.com
-
-# Dell
-77.239.114.0 www.dell.com
-
-# TikTok
-77.239.114.0 www.tiktok.com
-
-# Archive.org
-77.239.114.0 web.archive.org
-
-# NVIDIA
-77.239.114.0 developer.nvidia.com
-
-# Parsec
-77.239.114.0 builds.parsec.app
-
-# Tria.ge
-77.239.114.0 tria.ge
-
-# Qwant
-77.239.114.0 www.qwant.com
-
-# guidedhacking.com
-77.239.114.0 guidedhacking.com
-
-# Framer
-77.239.114.0 framer.com
-
-# Autodesk
-77.239.114.0 accounts.autodesk.com
-77.239.114.0 www.autodesk.com
-
-# Pump.fun
-77.239.114.0 pump.fun
-77.239.114.0 frontend-api-v3.pump.fun
-77.239.114.0 images.pump.fun
-77.239.114.0 swap-api.pump.fun
-
-# Truth Social
-77.239.114.0 truthsocial.com
-77.239.114.0 static-assets-1.truthsocial.com
-
-# Elgato
-77.239.114.0 www.elgato.com
-
-# Imgur
-77.239.114.0 api.imgur.com
-
-# Broadcom
-77.239.114.0 profile.broadcom.com
-
-# Temporarily geohide 
-185.87.51.182 gemini.google.com
-185.87.51.182 aistudio.google.com
-185.87.51.182 generativelanguage.googleapis.com
-185.87.51.182 aitestkitchen.withgoogle.com
-185.87.51.182 aisandbox-pa.googleapis.com
-185.87.51.182 webchannel-alkalimakersuite-pa.clients6.google.com
-185.87.51.182 alkalimakersuite-pa.clients6.google.com
-185.87.51.182 assistant-s3-pa.googleapis.com
-185.87.51.182 proactivebackend-pa.googleapis.com
-185.87.51.182 robinfrontend-pa.googleapis.com
-185.87.51.182 o.pki.goog
-185.87.51.182 labs.google
-185.87.51.182 notebooklm.google.com
-185.87.51.182 jules.google.com
-185.87.51.182 stitch.withgoogle.com
-
-# Сust 
-185.112.59.109 astranet.xyz
-82.202.230.55  www.film.ru
-82.202.230.56  www.film.ru
+# ── SNI Proxy Pool domains (load_balance → 77.239.114.0) ──
+77.239.114.0	analog.com
+77.239.114.0	augmentcode.com
+77.239.114.0	canva.com
+77.239.114.0	chatgpt.com
+77.239.114.0	claude.ai
+77.239.114.0	clickup-attachments.com
+77.239.114.0	clickup-eu.com
+77.239.114.0	clickup-prod.com
+77.239.114.0	clickup-sg.com
+77.239.114.0	clickup.com
+77.239.114.0	cloudmatchbeta.nvidiagrid.net
+77.239.114.0	codeium.com
+77.239.114.0	deepl.com
+77.239.114.0	deezer.com
+77.239.114.0	dyson.com
+77.239.114.0	dyson.fr
+77.239.114.0	dzcdn.net
+77.239.114.0	easydmarc.com
+77.239.114.0	elevenlabs.io
+77.239.114.0	elevenreader.io
+77.239.114.0	framer.com
+77.239.114.0	genspark.ai
+77.239.114.0	githubcopilot.com
+77.239.114.0	grok.com
+77.239.114.0	grokusercontent.com
+77.239.114.0	guidedhacking.com
+77.239.114.0	httptoolkit.com
+77.239.114.0	hume.ai
+77.239.114.0	hybrid-analysis.com
+77.239.114.0	linear.app
+77.239.114.0	m3u.in
+77.239.114.0	manus.im
+77.239.114.0	mongodb.com
+77.239.114.0	notion.so
+77.239.114.0	oaistatic.com
+77.239.114.0	oaiusercontent.com
+77.239.114.0	openai.com
+77.239.114.0	patreon.com
+77.239.114.0	pump.fun
+77.239.114.0	qwant.com
+77.239.114.0	scdn.co
+77.239.114.0	snapeda.com
+77.239.114.0	sora.com
+77.239.114.0	strava.com
+77.239.114.0	temp-number.org
+77.239.114.0	ti.com
+77.239.114.0	tidal.com
+77.239.114.0	trae.ai
+77.239.114.0	tria.ge
+77.239.114.0	weather.com
+77.239.114.0	wikidot.com
+77.239.114.0	windsurf.com
+77.239.114.0	x.ai
+77.239.114.0	patreonusercontent.com
+77.239.114.0	access.broadcom.com
+77.239.114.0	account.jetbrains.com
+77.239.114.0	accounts.supercell.com
+77.239.114.0	afcs.dellcdn.com
+77.239.114.0	api-v2.soundcloud.com
+77.239.114.0	api.anthropic.com
+77.239.114.0	api.fitbit.com
+77.239.114.0	api.github.com
+77.239.114.0	api.imgur.com
+77.239.114.0	api.jetbrains.ai
+77.239.114.0	api16-normal-alisg.mchost.guru
+77.239.114.0	builds.parsec.app
+77.239.114.0	cdn.id.supercell.com
+77.239.114.0	clashofclans.inbox.supercell.com
+77.239.114.0	console.anthropic.com
+77.239.114.0	copilot.microsoft.com
+77.239.114.0	datalore.jetbrains.com
+77.239.114.0	dds.dell.com
+77.239.114.0	developer.nvidia.com
+77.239.114.0	download.jetbrains.com
+77.239.114.0	edgeservices.bing.com
+77.239.114.0	eu.posthog.com
+77.239.114.0	fitbit-pa.googleapis.com
+77.239.114.0	fitbit.google.com
+77.239.114.0	fitbitvestibuleshim-pa.googleapis.com
+77.239.114.0	game-assets.brawlstarsgame.com
+77.239.114.0	game-assets.clashofclans.com
+77.239.114.0	game-assets.clashroyaleapp.com
+77.239.114.0	gql.twitch.tv
+77.239.114.0	i.dell.com
+77.239.114.0	knowledge.broadcom.com
+77.239.114.0	nexus.dell.com
+77.239.114.0	o.pki.goog
+77.239.114.0	plugins.jetbrains.com
+77.239.114.0	profile.broadcom.com
+77.239.114.0	rewards.bing.com
+77.239.114.0	security.id.supercell.com
+77.239.114.0	store.supercell.com
+77.239.114.0	support.broadcom.com
+77.239.114.0	sydney.bing.com
+77.239.114.0	trae-api-sg.mchost.guru
+77.239.114.0	us.posthog.com
+77.239.114.0	usher.ttvnw.net
+77.239.114.0	web.archive.org
+77.239.114.0	www.dell.com
+77.239.114.0	www.elgato.com
+77.239.114.0	www.intel.com
+77.239.114.0	www.tiktok.com
+77.239.114.0	xgpuweb.gssv-play-prod.xboxlive.com
+77.239.114.0	xgpuwebf2p.gssv-play-prod.xboxlive.com
+77.239.114.0	xsts.auth.xboxlive.com
+77.239.114.0	game.clashroyaleapp.com
+77.239.114.0	game-assets.clashroyaleapp.com
+77.239.114.0	cdn.id.supercell.com
+77.239.114.0	security.id.supercell.com
+77.239.114.0	accounts.supercell.com
+77.239.114.0	store.supercell.com
