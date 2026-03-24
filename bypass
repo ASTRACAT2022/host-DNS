@@ -1,8 +1,7 @@
 # /etc/hosts
 # Generated from policy.dns
 
-127.0.0.1	localhost
-::1		localhost
+
 
 # ── Static hosts (hosts_a_* rules) ──
 52.223.13.41	tracker.openbittorrent.com
