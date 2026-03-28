@@ -1,10 +1,10 @@
-name: Update Hosts File
+name: Update Bypasss File
 
 on:
   schedule:
     # Запуск каждый час (в 0 минут)
     - cron: '0 * * * *'
-  # Возможность запустить вручную через вкладку Actions
+  # Возможность ручного запуска через вкладку Actions
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        # Важно: используем токен с правами на запись, чтобы сделать пуш
         token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
@@ -38,6 +37,5 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add hosts
-        # Коммитим только если есть изменения
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update hosts file" && git push)
+        git add bypasss
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update bypasss file" && git push)
