@@ -59,7 +59,7 @@ def main():
         f.write("# Авто-обновленный hosts файл\n")
         f.write(f"# Последнее обновление: {current_date}\n")
         f.write(f"# Источник рекламы: {AD_BLOCKLIST_URL}\n")
-        f.write("#ASTRACAT.RU t.me/astracatuo\n")
+        f.write("# ASTRACAT.RU t.me/astracatuo\n")
         f.write("\n")
         # =======================
         
