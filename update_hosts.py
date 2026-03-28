@@ -3,7 +3,7 @@ import datetime
 
 # --- НАСТРОЙКИ ---
 BASE_HOSTS_FILE = 'base_hosts.txt'
-OUTPUT_FILE = 'bypasss'  # Имя итогового файла
+OUTPUT_FILE = 'bypass'  # Имя итогового файла
 # Ссылка на список блокировки рекламы (можно заменить на любой другой)
 AD_BLOCKLIST_URL = 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' 
 
