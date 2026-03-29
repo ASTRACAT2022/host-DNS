@@ -147,7 +147,6 @@
 77.239.114.0	xgpuweb.gssv-play-prod.xboxlive.com
 77.239.114.0	xgpuwebf2p.gssv-play-prod.xboxlive.com
 77.239.114.0	xsts.auth.xboxlive.com
-77.239.114.0	game.clashroyaleapp.com
 77.239.114.0	game-assets.clashroyaleapp.com
 77.239.114.0	cdn.id.supercell.com
 77.239.114.0	security.id.supercell.com
