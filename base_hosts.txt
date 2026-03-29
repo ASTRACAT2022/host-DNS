@@ -34,13 +34,13 @@
 45.155.204.190	jules.google.com
 45.155.204.190	stitch.withgoogle.com
 
-108.165.164.201	game.clashroyaleapp.com
+
 
 77.239.114.0	game.brawlstarsgame.com
 77.239.114.0	game.squadbustersgame.com
 
 2.27.63.21	astra.network
-
+108.165.164.201	game.clashroyaleapp.com
 # ── SNI Proxy Pool domains (load_balance → 77.239.114.0) ──
 77.239.114.0	analog.com
 77.239.114.0	augmentcode.com
