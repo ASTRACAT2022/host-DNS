@@ -5,7 +5,6 @@
 
 # ── Static hosts (hosts_a_* rules) ──
 52.223.13.41 tracker.openbittorrent.com
-185.31.40.18 test.dns.malw.link
 130.255.77.28 ntc.party
 103.27.157.38 controlplane.tailscale.com
 62.133.62.97 game.clashroyaleapp.com
