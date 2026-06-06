@@ -20,128 +20,128 @@
 157.240.245.174 help.instagram.com
 
 
-77.239.114.0 chatgpt.com
-77.239.114.0 ab.chatgpt.com
-77.239.114.0 auth.openai.com
-77.239.114.0 auth0.openai.com
-77.239.114.0 platform.openai.com
-77.239.114.0 cdn.oaistatic.com
-77.239.114.0 files.oaiusercontent.com
-77.239.114.0 tcr9i.chat.openai.com
-77.239.114.0 webrtc.chatgpt.com
-77.239.114.0 android.chat.openai.com
-77.239.114.0 api.openai.com
-77.239.114.0 operator.chatgpt.com
-77.239.114.0 sora.chatgpt.com
-77.239.114.0 sora.com
-77.239.114.0 videos.openai.com
-77.239.114.0 ios.chat.openai.com
-77.239.114.0 cdn.platform.openai.com
-77.239.114.0 developers.openai.com
+2.27.61.75 chatgpt.com
+2.27.61.75 ab.chatgpt.com
+2.27.61.75 auth.openai.com
+2.27.61.75 auth0.openai.com
+2.27.61.75 platform.openai.com
+2.27.61.75 cdn.oaistatic.com
+2.27.61.75 files.oaiusercontent.com
+2.27.61.75 tcr9i.chat.openai.com
+2.27.61.75 webrtc.chatgpt.com
+2.27.61.75 android.chat.openai.com
+2.27.61.75 api.openai.com
+2.27.61.75 operator.chatgpt.com
+2.27.61.75 sora.chatgpt.com
+2.27.61.75 sora.com
+2.27.61.75 videos.openai.com
+2.27.61.75 ios.chat.openai.com
+2.27.61.75 cdn.platform.openai.com
+2.27.61.75 developers.openai.com
 
 
-77.239.114.0 copilot.microsoft.com
-77.239.114.0 edgeservices.bing.com
-77.239.114.0 rewards.bing.com
-77.239.114.0 xsts.auth.xboxlive.com
-77.239.114.0 xgpuwebf2p.gssv-play-prod.xboxlive.com
-77.239.114.0 xgpuweb.gssv-play-prod.xboxlive.com
+2.27.61.75 copilot.microsoft.com
+2.27.61.75 edgeservices.bing.com
+2.27.61.75 rewards.bing.com
+2.27.61.75 xsts.auth.xboxlive.com
+2.27.61.75 xgpuwebf2p.gssv-play-prod.xboxlive.com
+2.27.61.75 xgpuweb.gssv-play-prod.xboxlive.com
 
 
-77.239.114.0 api.spotify.com
-77.239.114.0 login5.spotify.com
-77.239.114.0 encore.scdn.co
-77.239.114.0 gew1-spclient.spotify.com
-77.239.114.0 spclient.wg.spotify.com
-77.239.114.0 api-partner.spotify.com
-77.239.114.0 aet.spotify.com
-77.239.114.0 www.spotify.com
-77.239.114.0 accounts.spotify.com
-77.239.114.0 open.spotify.com
-77.239.114.0 accounts.scdn.co
-77.239.114.0 gew1-dealer.spotify.com
-77.239.114.0 www-growth.scdn.co
+2.27.61.75 api.spotify.com
+2.27.61.75 login5.spotify.com
+2.27.61.75 encore.scdn.co
+2.27.61.75 gew1-spclient.spotify.com
+2.27.61.75 spclient.wg.spotify.com
+2.27.61.75 api-partner.spotify.com
+2.27.61.75 aet.spotify.com
+2.27.61.75 www.spotify.com
+2.27.61.75 accounts.spotify.com
+2.27.61.75 open.spotify.com
+2.27.61.75 accounts.scdn.co
+2.27.61.75 gew1-dealer.spotify.com
+2.27.61.75 www-growth.scdn.co
 
 
-77.239.114.0 api.github.com
-77.239.114.0 api.individual.githubcopilot.com
-77.239.114.0 proxy.individual.githubcopilot.com
+2.27.61.75 api.github.com
+2.27.61.75 api.individual.githubcopilot.com
+2.27.61.75 proxy.individual.githubcopilot.com
 
-77.239.114.0 datalore.jetbrains.com
-77.239.114.0 plugins.jetbrains.com
-77.239.114.0 download.jetbrains.com
-77.239.114.0 api.jetbrains.ai
-77.239.114.0 account.jetbrains.com
-
-
-77.239.114.0 elevenlabs.io
-77.239.114.0 api.us.elevenlabs.io
-77.239.114.0 elevenreader.io
-77.239.114.0 api.elevenlabs.io
-77.239.114.0 help.elevenlabs.io
+2.27.61.75 datalore.jetbrains.com
+2.27.61.75 plugins.jetbrains.com
+2.27.61.75 download.jetbrains.com
+2.27.61.75 api.jetbrains.ai
+2.27.61.75 account.jetbrains.com
 
 
-77.239.114.0 grok.com
-77.239.114.0 accounts.x.ai
-77.239.114.0 assets.grok.com
+2.27.61.75 elevenlabs.io
+2.27.61.75 api.us.elevenlabs.io
+2.27.61.75 elevenreader.io
+2.27.61.75 api.elevenlabs.io
+2.27.61.75 help.elevenlabs.io
 
 
-77.239.114.0 api.tidal.com
-77.239.114.0 listen.tidal.com
-77.239.114.0 login.tidal.com
-77.239.114.0 auth.tidal.com
-77.239.114.0 link.tidal.com
-77.239.114.0 dd.tidal.com
-77.239.114.0 resources.tidal.com
-77.239.114.0 images.tidal.com
-77.239.114.0 fsu.fa.tidal.com
-77.239.114.0 geolocation.onetrust.com
-77.239.114.0 api.squareup.com
-77.239.114.0 api-global.squareup.com
+2.27.61.75 grok.com
+2.27.61.75 accounts.x.ai
+2.27.61.75 assets.grok.com
 
 
-77.239.114.0 cdn.id.supercell.com
-77.239.114.0 security.id.supercell.com
-77.239.114.0 accounts.supercell.com
-77.239.114.0 game-assets.clashroyaleapp.com
-77.239.114.0 game-assets.clashofclans.com
-77.239.114.0 clashofclans.inbox.supercell.com
-77.239.114.0 game-assets.brawlstarsgame.com
-77.239.114.0 store.supercell.com
+2.27.61.75 api.tidal.com
+2.27.61.75 listen.tidal.com
+2.27.61.75 login.tidal.com
+2.27.61.75 auth.tidal.com
+2.27.61.75 link.tidal.com
+2.27.61.75 dd.tidal.com
+2.27.61.75 resources.tidal.com
+2.27.61.75 images.tidal.com
+2.27.61.75 fsu.fa.tidal.com
+2.27.61.75 geolocation.onetrust.com
+2.27.61.75 api.squareup.com
+2.27.61.75 api-global.squareup.com
 
 
-77.239.114.0 deepl.com
-77.239.114.0 www.deepl.com
-77.239.114.0 www2.deepl.com
-77.239.114.0 login-wall.deepl.com
-77.239.114.0 w.deepl.com
-77.239.114.0 s.deepl.com
-77.239.114.0 dict.deepl.com
-77.239.114.0 ita-free.www.deepl.com
-77.239.114.0 write-free.www.deepl.com
-77.239.114.0 experimentation.deepl.com
-77.239.114.0 experimentation-grpc.deepl.com
-77.239.114.0 ita-free.app.deepl.com
-77.239.114.0 shield.deepl.com
-77.239.114.0 ott.deepl.com
-77.239.114.0 api-free.deepl.com
-77.239.114.0 backend.deepl.com
-77.239.114.0 clearance.deepl.com
-77.239.114.0 errortracking.deepl.com
-77.239.114.0 auth.deepl.com
-77.239.114.0 oneshot-free.www.deepl.com
-77.239.114.0 checkout.www.deepl.com
-77.239.114.0 gtm.deepl.com
-77.239.114.0 voice-proxy.www.deepl.com
+2.27.61.75 cdn.id.supercell.com
+2.27.61.75 security.id.supercell.com
+2.27.61.75 accounts.supercell.com
+2.27.61.75 game-assets.clashroyaleapp.com
+2.27.61.75 game-assets.clashofclans.com
+2.27.61.75 clashofclans.inbox.supercell.com
+2.27.61.75 game-assets.brawlstarsgame.com
+2.27.61.75 store.supercell.com
 
 
-77.239.114.0 deezer.com
-77.239.114.0 www.deezer.com
-77.239.114.0 payment.deezer.com
+2.27.61.75 deepl.com
+2.27.61.75 www.deepl.com
+2.27.61.75 www2.deepl.com
+2.27.61.75 login-wall.deepl.com
+2.27.61.75 w.deepl.com
+2.27.61.75 s.deepl.com
+2.27.61.75 dict.deepl.com
+2.27.61.75 ita-free.www.deepl.com
+2.27.61.75 write-free.www.deepl.com
+2.27.61.75 experimentation.deepl.com
+2.27.61.75 experimentation-grpc.deepl.com
+2.27.61.75 ita-free.app.deepl.com
+2.27.61.75 shield.deepl.com
+2.27.61.75 ott.deepl.com
+2.27.61.75 api-free.deepl.com
+2.27.61.75 backend.deepl.com
+2.27.61.75 clearance.deepl.com
+2.27.61.75 errortracking.deepl.com
+2.27.61.75 auth.deepl.com
+2.27.61.75 oneshot-free.www.deepl.com
+2.27.61.75 checkout.www.deepl.com
+2.27.61.75 gtm.deepl.com
+2.27.61.75 voice-proxy.www.deepl.com
 
 
-77.239.114.0 weather.com
-77.239.114.0 upsx.weather.com
+2.27.61.75 deezer.com
+2.27.61.75 www.deezer.com
+2.27.61.75 payment.deezer.com
+
+
+2.27.61.75 weather.com
+2.27.61.75 upsx.weather.com
 
 
 62.133.62.97 api.fitbit.com
@@ -165,111 +165,111 @@
 62.133.62.97 stitch.withgoogle.com
 
 
-77.239.114.0 claude.ai
-77.239.114.0 console.anthropic.com
-77.239.114.0 api.anthropic.com
-77.239.114.0 platform.claude.com
-77.239.114.0 a.claude.ai
+2.27.61.75 claude.ai
+2.27.61.75 console.anthropic.com
+2.27.61.75 api.anthropic.com
+2.27.61.75 platform.claude.com
+2.27.61.75 a.claude.ai
 
 
-77.239.114.0 trae-api-sg.mchost.guru
-77.239.114.0 api.trae.ai
-77.239.114.0 api-sg-central.trae.ai
-77.239.114.0 api16-normal-alisg.mchost.guru
+2.27.61.75 trae-api-sg.mchost.guru
+2.27.61.75 api.trae.ai
+2.27.61.75 api-sg-central.trae.ai
+2.27.61.75 api16-normal-alisg.mchost.guru
 
 
-77.239.114.0 linear.app
-77.239.114.0 client-api.linear.app
-77.239.114.0 static.linear.app
-77.239.114.0 constellation.linear.app
-77.239.114.0 uploads.linear.app
-77.239.114.0 public.linear.app
-77.239.114.0 s.linear.app
+2.27.61.75 linear.app
+2.27.61.75 client-api.linear.app
+2.27.61.75 static.linear.app
+2.27.61.75 constellation.linear.app
+2.27.61.75 uploads.linear.app
+2.27.61.75 public.linear.app
+2.27.61.75 s.linear.app
 
 
-77.239.114.0 windsurf.com
-77.239.114.0 codeium.com
-77.239.114.0 server.codeium.com
-77.239.114.0 web-backend.codeium.com
-77.239.114.0 unleash.codeium.com
-77.239.114.0 inference.codeium.com
-77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
-77.239.114.0 marketplace.windsurf.com
+2.27.61.75 windsurf.com
+2.27.61.75 codeium.com
+2.27.61.75 server.codeium.com
+2.27.61.75 web-backend.codeium.com
+2.27.61.75 unleash.codeium.com
+2.27.61.75 inference.codeium.com
+2.27.61.75 windsurf-stable.codeium.com
+2.27.61.75 windsurf-telemetry.codeium.com
+2.27.61.75 marketplace.windsurf.com
 
 
-77.239.114.0 usher.ttvnw.net
-77.239.114.0 gql.twitch.tv
+2.27.61.75 usher.ttvnw.net
+2.27.61.75 gql.twitch.tv
 
 
-77.239.114.0 manus.im
-77.239.114.0 api.manus.im
+2.27.61.75 manus.im
+2.27.61.75 api.manus.im
 
 
-77.239.114.0 www.notion.so
-77.239.114.0 calendar.notion.so
+2.27.61.75 www.notion.so
+2.27.61.75 calendar.notion.so
 
 
-77.239.114.0 www.canva.com
-77.239.114.0 content-management-files.canva.com
-77.239.114.0 static.canva.com
+2.27.61.75 www.canva.com
+2.27.61.75 content-management-files.canva.com
+2.27.61.75 static.canva.com
 
 
-77.239.114.0 www.intel.com
+2.27.61.75 www.intel.com
 
 
-77.239.114.0 www.dell.com
+2.27.61.75 www.dell.com
 
 
-77.239.114.0 www.tiktok.com
+2.27.61.75 www.tiktok.com
 
 
 103.27.157.38 web.archive.org
 
 
-77.239.114.0 developer.nvidia.com
+2.27.61.75 developer.nvidia.com
 
 
-77.239.114.0 builds.parsec.app
+2.27.61.75 builds.parsec.app
 
 
-77.239.114.0 tria.ge
+2.27.61.75 tria.ge
 
 
-77.239.114.0 www.qwant.com
+2.27.61.75 www.qwant.com
 
 
-77.239.114.0 guidedhacking.com
+2.27.61.75 guidedhacking.com
 
 
-77.239.114.0 framer.com
+2.27.61.75 framer.com
 
 
-77.239.114.0 accounts.autodesk.com
-77.239.114.0 www.autodesk.com
+2.27.61.75 accounts.autodesk.com
+2.27.61.75 www.autodesk.com
 
 
-77.239.114.0 pump.fun
-77.239.114.0 frontend-api-v3.pump.fun
-77.239.114.0 images.pump.fun
-77.239.114.0 swap-api.pump.fun
+2.27.61.75 pump.fun
+2.27.61.75 frontend-api-v3.pump.fun
+2.27.61.75 images.pump.fun
+2.27.61.75 swap-api.pump.fun
 
 
 103.27.157.38 truthsocial.com
 103.27.157.38 static-assets-1.truthsocial.com
 
 
-77.239.114.0 www.elgato.com
+2.27.61.75 www.elgato.com
 
 
-77.239.114.0 api.imgur.com
+2.27.61.75 api.imgur.com
 
 
-77.239.114.0 dyson.com
+2.27.61.75 dyson.com
 
 
-77.239.114.0 profile.broadcom.com
+2.27.61.75 profile.broadcom.com
 
 
-77.239.114.0 patreon.com
-77.239.114.0 www.patreon.com
+2.27.61.75 patreon.com
+2.27.61.75 www.patreon.com
