@@ -1,5 +1,5 @@
 # Авто-обновленный hosts файл
-# Последнее обновление: 2026-07-22 06:34:10
+# Последнее обновление: 2026-07-22 09:30:08
 # Источник рекламы: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # ASTRACAT.RU t.me/astracatuo
 
@@ -89971,15 +89971,11 @@
 5.231.223.119 ab.chatgpt.com
 5.231.223.119 account.jetbrains.com
 5.231.223.119 accounts.autodesk.com
-5.231.223.119 accounts.scdn.co
-5.231.223.119 accounts.spotify.com
 5.231.223.119 accounts.supercell.com
 5.231.223.119 accounts.x.ai
-5.231.223.119 aet.spotify.com
 5.231.223.119 android.chat.openai.com
 5.231.223.119 api-free.deepl.com
 5.231.223.119 api-global.squareup.com
-5.231.223.119 api-partner.spotify.com
 5.231.223.119 api-sg-central.trae.ai
 5.231.223.119 api.anthropic.com
 5.231.223.119 api.elevenlabs.io
@@ -89989,7 +89985,6 @@
 5.231.223.119 api.jetbrains.ai
 5.231.223.119 api.manus.im
 5.231.223.119 api.openai.com
-5.231.223.119 api.spotify.com
 5.231.223.119 api.squareup.com
 5.231.223.119 api.tidal.com
 5.231.223.119 api.trae.ai
@@ -90029,7 +90024,6 @@
 5.231.223.119 edgeservices.bing.com
 5.231.223.119 elevenlabs.io
 5.231.223.119 elevenreader.io
-5.231.223.119 encore.scdn.co
 5.231.223.119 errortracking.deepl.com
 5.231.223.119 experimentation-grpc.deepl.com
 5.231.223.119 experimentation.deepl.com
@@ -90041,8 +90035,6 @@
 5.231.223.119 game-assets.clashofclans.com
 5.231.223.119 game-assets.clashroyaleapp.com
 5.231.223.119 geolocation.onetrust.com
-5.231.223.119 gew1-dealer.spotify.com
-5.231.223.119 gew1-spclient.spotify.com
 5.231.223.119 gql.twitch.tv
 5.231.223.119 grok.com
 5.231.223.119 gtm.deepl.com
@@ -90059,11 +90051,9 @@
 5.231.223.119 listen.tidal.com
 5.231.223.119 login-wall.deepl.com
 5.231.223.119 login.tidal.com
-5.231.223.119 login5.spotify.com
 5.231.223.119 manus.im
 5.231.223.119 marketplace.windsurf.com
 5.231.223.119 oneshot-free.www.deepl.com
-5.231.223.119 open.spotify.com
 5.231.223.119 operator.chatgpt.com
 5.231.223.119 ott.deepl.com
 5.231.223.119 patreon.com
@@ -90084,7 +90074,6 @@
 5.231.223.119 shield.deepl.com
 5.231.223.119 sora.chatgpt.com
 5.231.223.119 sora.com
-5.231.223.119 spclient.wg.spotify.com
 5.231.223.119 static.canva.com
 5.231.223.119 static.linear.app
 5.231.223.119 store.supercell.com
@@ -90106,7 +90095,6 @@
 5.231.223.119 windsurf-telemetry.codeium.com
 5.231.223.119 windsurf.com
 5.231.223.119 write-free.www.deepl.com
-5.231.223.119 www-growth.scdn.co
 5.231.223.119 www.autodesk.com
 5.231.223.119 www.canva.com
 5.231.223.119 www.deepl.com
@@ -90117,7 +90105,6 @@
 5.231.223.119 www.notion.so
 5.231.223.119 www.patreon.com
 5.231.223.119 www.qwant.com
-5.231.223.119 www.spotify.com
 5.231.223.119 www.tiktok.com
 5.231.223.119 www2.deepl.com
 5.231.223.119 xgpuweb.gssv-play-prod.xboxlive.com
