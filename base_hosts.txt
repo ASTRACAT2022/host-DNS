@@ -48,19 +48,7 @@
 5.231.223.119 xgpuweb.gssv-play-prod.xboxlive.com
 
 
-5.231.223.119 api.spotify.com
-5.231.223.119 login5.spotify.com
-5.231.223.119 encore.scdn.co
-5.231.223.119 gew1-spclient.spotify.com
-5.231.223.119 spclient.wg.spotify.com
-5.231.223.119 api-partner.spotify.com
-5.231.223.119 aet.spotify.com
-5.231.223.119 www.spotify.com
-5.231.223.119 accounts.spotify.com
-5.231.223.119 open.spotify.com
-5.231.223.119 accounts.scdn.co
-5.231.223.119 gew1-dealer.spotify.com
-5.231.223.119 www-growth.scdn.co
+
 
 
 5.231.223.119 api.github.com
