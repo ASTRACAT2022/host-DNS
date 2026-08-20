@@ -1,5 +1,5 @@
 # Авто-обновленный hosts файл
-# Последнее обновление: 2026-08-20 10:35:36
+# Последнее обновление: 2026-08-20 10:36:55
 # Источник рекламы: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # ASTRACAT.RU t.me/astracatuo
 
@@ -95686,6 +95686,25 @@
 172.64.33.155 d.rutor.info
 185.246.223.127 game.brawlstarsgame.com
 193.23.209.189 gamea.clashofclans.com
+45.88.174.254 aisandbox-pa.googleapis.com
+45.88.174.254 aistudio.google.com
+45.88.174.254 aitestkitchen.withgoogle.com
+45.88.174.254 alkalimakersuite-pa.clients6.google.com
+45.88.174.254 api.fitbit.com
+45.88.174.254 assistant-s3-pa.googleapis.com
+45.88.174.254 fitbit-pa.googleapis.com
+45.88.174.254 fitbit.google.com
+45.88.174.254 fitbitvestibuleshim-pa.googleapis.com
+45.88.174.254 gemini.google.com
+45.88.174.254 generativelanguage.googleapis.com
+45.88.174.254 jules.google.com
+45.88.174.254 labs.google
+45.88.174.254 notebooklm.google.com
+45.88.174.254 o.pki.goog
+45.88.174.254 proactivebackend-pa.googleapis.com
+45.88.174.254 robinfrontend-pa.googleapis.com
+45.88.174.254 stitch.withgoogle.com
+45.88.174.254 webchannel-alkalimakersuite-pa.clients6.google.com
 5.231.223.119 a.claude.ai
 5.231.223.119 ab.chatgpt.com
 5.231.223.119 account.jetbrains.com
@@ -95830,24 +95849,5 @@
 5.231.223.119 xgpuwebf2p.gssv-play-prod.xboxlive.com
 5.231.223.119 xsts.auth.xboxlive.com
 52.223.13.41 tracker.openbittorrent.com
-62.133.62.97 aisandbox-pa.googleapis.com
-62.133.62.97 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
-62.133.62.97 alkalimakersuite-pa.clients6.google.com
-62.133.62.97 api.fitbit.com
-62.133.62.97 assistant-s3-pa.googleapis.com
-62.133.62.97 fitbit-pa.googleapis.com
-62.133.62.97 fitbit.google.com
-62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 62.133.62.97 game.clashroyaleapp.com
 62.133.62.97 game.mocogame.com
-62.133.62.97 gemini.google.com
-62.133.62.97 generativelanguage.googleapis.com
-62.133.62.97 jules.google.com
-62.133.62.97 labs.google
-62.133.62.97 notebooklm.google.com
-62.133.62.97 o.pki.goog
-62.133.62.97 proactivebackend-pa.googleapis.com
-62.133.62.97 robinfrontend-pa.googleapis.com
-62.133.62.97 stitch.withgoogle.com
-62.133.62.97 webchannel-alkalimakersuite-pa.clients6.google.com
