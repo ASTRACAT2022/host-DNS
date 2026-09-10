@@ -4,260 +4,260 @@
 
 
 # ── Static hosts (hosts_a_* rules) ──
-87.58.204.29 tracker.openbittorrent.com
-87.58.204.29 ntc.party
-87.58.204.29 controlplane.tailscale.com
-87.58.204.29 game.clashroyaleapp.com
-87.58.204.29 gamea.clashofclans.com
-87.58.204.29 game.brawlstarsgame.com
-87.58.204.29 game.squadbustersgame.com
-87.58.204.29 game.mocogame.com
-87.58.204.29 d.rutor.info
-87.58.204.29 instagram.com
-87.58.204.29 www.instagram.com
-87.58.204.29 b.i.instagram.com
-87.58.204.29 z-p42-chat-e2ee-ig.facebook.com
-87.58.204.29 help.instagram.com
-
-
-87.58.204.29 chatgpt.com
-87.58.204.29 ab.chatgpt.com
-87.58.204.29 auth.openai.com
-87.58.204.29 auth0.openai.com
-87.58.204.29 platform.openai.com
-87.58.204.29 cdn.oaistatic.com
-87.58.204.29 files.oaiusercontent.com
-87.58.204.29 tcr9i.chat.openai.com
-87.58.204.29 webrtc.chatgpt.com
-87.58.204.29 android.chat.openai.com
-87.58.204.29 api.openai.com
-87.58.204.29 operator.chatgpt.com
-87.58.204.29 sora.chatgpt.com
-87.58.204.29 sora.com
-87.58.204.29 videos.openai.com
-87.58.204.29 ios.chat.openai.com
-87.58.204.29 cdn.platform.openai.com
-87.58.204.29 developers.openai.com
-
-
-87.58.204.29 copilot.microsoft.com
-87.58.204.29 edgeservices.bing.com
-87.58.204.29 rewards.bing.com
-87.58.204.29 xsts.auth.xboxlive.com
-87.58.204.29 xgpuwebf2p.gssv-play-prod.xboxlive.com
-87.58.204.29 xgpuweb.gssv-play-prod.xboxlive.com
-
-
-
-
-
-87.58.204.29 api.github.com
-87.58.204.29 api.individual.githubcopilot.com
-87.58.204.29 proxy.individual.githubcopilot.com
-
-87.58.204.29 datalore.jetbrains.com
-87.58.204.29 plugins.jetbrains.com
-87.58.204.29 download.jetbrains.com
-87.58.204.29 api.jetbrains.ai
-87.58.204.29 account.jetbrains.com
-
-
-87.58.204.29 elevenlabs.io
-87.58.204.29 api.us.elevenlabs.io
-87.58.204.29 elevenreader.io
-87.58.204.29 api.elevenlabs.io
-87.58.204.29 help.elevenlabs.io
-
-
-87.58.204.29 grok.com
-87.58.204.29 accounts.x.ai
-87.58.204.29 assets.grok.com
-
-
-87.58.204.29 api.tidal.com
-87.58.204.29 listen.tidal.com
-87.58.204.29 login.tidal.com
-87.58.204.29 auth.tidal.com
-87.58.204.29 link.tidal.com
-87.58.204.29 dd.tidal.com
-87.58.204.29 resources.tidal.com
-87.58.204.29 images.tidal.com
-87.58.204.29 fsu.fa.tidal.com
-87.58.204.29 geolocation.onetrust.com
-87.58.204.29 api.squareup.com
-87.58.204.29 api-global.squareup.com
-
-
-87.58.204.29 cdn.id.supercell.com
-87.58.204.29 security.id.supercell.com
-87.58.204.29 accounts.supercell.com
-87.58.204.29 game-assets.clashroyaleapp.com
-87.58.204.29 game-assets.clashofclans.com
-87.58.204.29 clashofclans.inbox.supercell.com
-87.58.204.29 game-assets.brawlstarsgame.com
-87.58.204.29 store.supercell.com
-
-
-87.58.204.29 deepl.com
-87.58.204.29 www.deepl.com
-87.58.204.29 www2.deepl.com
-87.58.204.29 login-wall.deepl.com
-87.58.204.29 w.deepl.com
-87.58.204.29 s.deepl.com
-87.58.204.29 dict.deepl.com
-87.58.204.29 ita-free.www.deepl.com
-87.58.204.29 write-free.www.deepl.com
-87.58.204.29 experimentation.deepl.com
-87.58.204.29 experimentation-grpc.deepl.com
-87.58.204.29 ita-free.app.deepl.com
-87.58.204.29 shield.deepl.com
-87.58.204.29 ott.deepl.com
-87.58.204.29 api-free.deepl.com
-87.58.204.29 backend.deepl.com
-87.58.204.29 clearance.deepl.com
-87.58.204.29 errortracking.deepl.com
-87.58.204.29 auth.deepl.com
-87.58.204.29 oneshot-free.www.deepl.com
-87.58.204.29 checkout.www.deepl.com
-87.58.204.29 gtm.deepl.com
-87.58.204.29 voice-proxy.www.deepl.com
+87.58.213.207 tracker.openbittorrent.com
+87.58.213.207 ntc.party
+87.58.213.207 controlplane.tailscale.com
+87.58.213.207 game.clashroyaleapp.com
+87.58.213.207 gamea.clashofclans.com
+87.58.213.207 game.brawlstarsgame.com
+87.58.213.207 game.squadbustersgame.com
+87.58.213.207 game.mocogame.com
+87.58.213.207 d.rutor.info
+87.58.213.207 instagram.com
+87.58.213.207 www.instagram.com
+87.58.213.207 b.i.instagram.com
+87.58.213.207 z-p42-chat-e2ee-ig.facebook.com
+87.58.213.207 help.instagram.com
+
+
+87.58.213.207 chatgpt.com
+87.58.213.207 ab.chatgpt.com
+87.58.213.207 auth.openai.com
+87.58.213.207 auth0.openai.com
+87.58.213.207 platform.openai.com
+87.58.213.207 cdn.oaistatic.com
+87.58.213.207 files.oaiusercontent.com
+87.58.213.207 tcr9i.chat.openai.com
+87.58.213.207 webrtc.chatgpt.com
+87.58.213.207 android.chat.openai.com
+87.58.213.207 api.openai.com
+87.58.213.207 operator.chatgpt.com
+87.58.213.207 sora.chatgpt.com
+87.58.213.207 sora.com
+87.58.213.207 videos.openai.com
+87.58.213.207 ios.chat.openai.com
+87.58.213.207 cdn.platform.openai.com
+87.58.213.207 developers.openai.com
+
+
+87.58.213.207 copilot.microsoft.com
+87.58.213.207 edgeservices.bing.com
+87.58.213.207 rewards.bing.com
+87.58.213.207 xsts.auth.xboxlive.com
+87.58.213.207 xgpuwebf2p.gssv-play-prod.xboxlive.com
+87.58.213.207 xgpuweb.gssv-play-prod.xboxlive.com
+
+
+
+
+
+87.58.213.207 api.github.com
+87.58.213.207 api.individual.githubcopilot.com
+87.58.213.207 proxy.individual.githubcopilot.com
+
+87.58.213.207 datalore.jetbrains.com
+87.58.213.207 plugins.jetbrains.com
+87.58.213.207 download.jetbrains.com
+87.58.213.207 api.jetbrains.ai
+87.58.213.207 account.jetbrains.com
+
+
+87.58.213.207 elevenlabs.io
+87.58.213.207 api.us.elevenlabs.io
+87.58.213.207 elevenreader.io
+87.58.213.207 api.elevenlabs.io
+87.58.213.207 help.elevenlabs.io
+
+
+87.58.213.207 grok.com
+87.58.213.207 accounts.x.ai
+87.58.213.207 assets.grok.com
+
+
+87.58.213.207 api.tidal.com
+87.58.213.207 listen.tidal.com
+87.58.213.207 login.tidal.com
+87.58.213.207 auth.tidal.com
+87.58.213.207 link.tidal.com
+87.58.213.207 dd.tidal.com
+87.58.213.207 resources.tidal.com
+87.58.213.207 images.tidal.com
+87.58.213.207 fsu.fa.tidal.com
+87.58.213.207 geolocation.onetrust.com
+87.58.213.207 api.squareup.com
+87.58.213.207 api-global.squareup.com
+
+
+87.58.213.207 cdn.id.supercell.com
+87.58.213.207 security.id.supercell.com
+87.58.213.207 accounts.supercell.com
+87.58.213.207 game-assets.clashroyaleapp.com
+87.58.213.207 game-assets.clashofclans.com
+87.58.213.207 clashofclans.inbox.supercell.com
+87.58.213.207 game-assets.brawlstarsgame.com
+87.58.213.207 store.supercell.com
+
+
+87.58.213.207 deepl.com
+87.58.213.207 www.deepl.com
+87.58.213.207 www2.deepl.com
+87.58.213.207 login-wall.deepl.com
+87.58.213.207 w.deepl.com
+87.58.213.207 s.deepl.com
+87.58.213.207 dict.deepl.com
+87.58.213.207 ita-free.www.deepl.com
+87.58.213.207 write-free.www.deepl.com
+87.58.213.207 experimentation.deepl.com
+87.58.213.207 experimentation-grpc.deepl.com
+87.58.213.207 ita-free.app.deepl.com
+87.58.213.207 shield.deepl.com
+87.58.213.207 ott.deepl.com
+87.58.213.207 api-free.deepl.com
+87.58.213.207 backend.deepl.com
+87.58.213.207 clearance.deepl.com
+87.58.213.207 errortracking.deepl.com
+87.58.213.207 auth.deepl.com
+87.58.213.207 oneshot-free.www.deepl.com
+87.58.213.207 checkout.www.deepl.com
+87.58.213.207 gtm.deepl.com
+87.58.213.207 voice-proxy.www.deepl.com
 
 
-87.58.204.29 deezer.com
-87.58.204.29 www.deezer.com
-87.58.204.29 payment.deezer.com
+87.58.213.207 deezer.com
+87.58.213.207 www.deezer.com
+87.58.213.207 payment.deezer.com
 
 
-87.58.204.29 weather.com
-87.58.204.29 upsx.weather.com
+87.58.213.207 weather.com
+87.58.213.207 upsx.weather.com
 
 
-87.58.204.29 api.fitbit.com
-87.58.204.29 fitbit-pa.googleapis.com
-87.58.204.29 fitbitvestibuleshim-pa.googleapis.com
-87.58.204.29 fitbit.google.com
-87.58.204.29 gemini.google.com
-87.58.204.29 aistudio.google.com
-87.58.204.29 generativelanguage.googleapis.com
-87.58.204.29 aitestkitchen.withgoogle.com
-87.58.204.29 aisandbox-pa.googleapis.com
-87.58.204.29 webchannel-alkalimakersuite-pa.clients6.google.com
-87.58.204.29 alkalimakersuite-pa.clients6.google.com
-87.58.204.29 assistant-s3-pa.googleapis.com
-87.58.204.29 proactivebackend-pa.googleapis.com
-87.58.204.29 robinfrontend-pa.googleapis.com
-87.58.204.29 o.pki.goog
-87.58.204.29 labs.google
-87.58.204.29 notebooklm.google.com
-87.58.204.29 jules.google.com
-87.58.204.29 stitch.withgoogle.com
+87.58.213.207 api.fitbit.com
+87.58.213.207 fitbit-pa.googleapis.com
+87.58.213.207 fitbitvestibuleshim-pa.googleapis.com
+87.58.213.207 fitbit.google.com
+87.58.213.207 gemini.google.com
+87.58.213.207 aistudio.google.com
+87.58.213.207 generativelanguage.googleapis.com
+87.58.213.207 aitestkitchen.withgoogle.com
+87.58.213.207 aisandbox-pa.googleapis.com
+87.58.213.207 webchannel-alkalimakersuite-pa.clients6.google.com
+87.58.213.207 alkalimakersuite-pa.clients6.google.com
+87.58.213.207 assistant-s3-pa.googleapis.com
+87.58.213.207 proactivebackend-pa.googleapis.com
+87.58.213.207 robinfrontend-pa.googleapis.com
+87.58.213.207 o.pki.goog
+87.58.213.207 labs.google
+87.58.213.207 notebooklm.google.com
+87.58.213.207 jules.google.com
+87.58.213.207 stitch.withgoogle.com
 
 
-87.58.204.29 claude.ai
-87.58.204.29 console.anthropic.com
-87.58.204.29 api.anthropic.com
-87.58.204.29 platform.claude.com
-87.58.204.29 a.claude.ai
+87.58.213.207 claude.ai
+87.58.213.207 console.anthropic.com
+87.58.213.207 api.anthropic.com
+87.58.213.207 platform.claude.com
+87.58.213.207 a.claude.ai
 
 
-87.58.204.29 trae-api-sg.mchost.guru
-87.58.204.29 api.trae.ai
-87.58.204.29 api-sg-central.trae.ai
-87.58.204.29 api16-normal-alisg.mchost.guru
+87.58.213.207 trae-api-sg.mchost.guru
+87.58.213.207 api.trae.ai
+87.58.213.207 api-sg-central.trae.ai
+87.58.213.207 api16-normal-alisg.mchost.guru
 
 
-87.58.204.29 linear.app
-87.58.204.29 client-api.linear.app
-87.58.204.29 static.linear.app
-87.58.204.29 constellation.linear.app
-87.58.204.29 uploads.linear.app
-87.58.204.29 public.linear.app
-87.58.204.29 s.linear.app
+87.58.213.207 linear.app
+87.58.213.207 client-api.linear.app
+87.58.213.207 static.linear.app
+87.58.213.207 constellation.linear.app
+87.58.213.207 uploads.linear.app
+87.58.213.207 public.linear.app
+87.58.213.207 s.linear.app
 
 
-87.58.204.29 windsurf.com
-87.58.204.29 codeium.com
-87.58.204.29 server.codeium.com
-87.58.204.29 web-backend.codeium.com
-87.58.204.29 unleash.codeium.com
-87.58.204.29 inference.codeium.com
-87.58.204.29 windsurf-stable.codeium.com
-87.58.204.29 windsurf-telemetry.codeium.com
-87.58.204.29 marketplace.windsurf.com
+87.58.213.207 windsurf.com
+87.58.213.207 codeium.com
+87.58.213.207 server.codeium.com
+87.58.213.207 web-backend.codeium.com
+87.58.213.207 unleash.codeium.com
+87.58.213.207 inference.codeium.com
+87.58.213.207 windsurf-stable.codeium.com
+87.58.213.207 windsurf-telemetry.codeium.com
+87.58.213.207 marketplace.windsurf.com
 
 
-87.58.204.29 usher.ttvnw.net
-87.58.204.29 gql.twitch.tv
+87.58.213.207 usher.ttvnw.net
+87.58.213.207 gql.twitch.tv
 
 
-87.58.204.29 manus.im
-87.58.204.29 api.manus.im
+87.58.213.207 manus.im
+87.58.213.207 api.manus.im
 
 
-87.58.204.29 www.notion.so
-87.58.204.29 calendar.notion.so
+87.58.213.207 www.notion.so
+87.58.213.207 calendar.notion.so
 
 
-87.58.204.29 www.canva.com
-87.58.204.29 content-management-files.canva.com
-87.58.204.29 static.canva.com
+87.58.213.207 www.canva.com
+87.58.213.207 content-management-files.canva.com
+87.58.213.207 static.canva.com
 
 
-87.58.204.29 www.intel.com
+87.58.213.207 www.intel.com
 
 
-87.58.204.29 www.dell.com
+87.58.213.207 www.dell.com
 
 
-87.58.204.29 www.tiktok.com
+87.58.213.207 www.tiktok.com
 
 
-87.58.204.29 web.archive.org
+87.58.213.207 web.archive.org
 
 
-87.58.204.29 developer.nvidia.com
+87.58.213.207 developer.nvidia.com
 
 
-87.58.204.29 builds.parsec.app
+87.58.213.207 builds.parsec.app
 
 
-87.58.204.29 tria.ge
+87.58.213.207 tria.ge
 
 
-87.58.204.29 www.qwant.com
+87.58.213.207 www.qwant.com
 
 
-87.58.204.29 guidedhacking.com
+87.58.213.207 guidedhacking.com
 
 
-87.58.204.29 framer.com
+87.58.213.207 framer.com
 
 
-87.58.204.29 accounts.autodesk.com
-87.58.204.29 www.autodesk.com
+87.58.213.207 accounts.autodesk.com
+87.58.213.207 www.autodesk.com
 
 
-87.58.204.29 pump.fun
-87.58.204.29 frontend-api-v3.pump.fun
-87.58.204.29 images.pump.fun
-87.58.204.29 swap-api.pump.fun
+87.58.213.207 pump.fun
+87.58.213.207 frontend-api-v3.pump.fun
+87.58.213.207 images.pump.fun
+87.58.213.207 swap-api.pump.fun
 
 
-87.58.204.29 truthsocial.com
-87.58.204.29 static-assets-1.truthsocial.com
+87.58.213.207 truthsocial.com
+87.58.213.207 static-assets-1.truthsocial.com
 
 
-87.58.204.29 www.elgato.com
+87.58.213.207 www.elgato.com
 
 
-87.58.204.29 api.imgur.com
+87.58.213.207 api.imgur.com
 
 
-87.58.204.29 dyson.com
+87.58.213.207 dyson.com
 
 
-87.58.204.29 profile.broadcom.com
+87.58.213.207 profile.broadcom.com
 
 
-87.58.204.29 patreon.com
-87.58.204.29 www.patreon.com
+87.58.213.207 patreon.com
+87.58.213.207 www.patreon.com
