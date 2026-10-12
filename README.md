@@ -11,8 +11,8 @@ PS:обновления
 
 | Тип подключения | Адрес / Ссылка |
 | :--- | :--- 
-| **🔹 DoH с поддержкой ODoH самый надёжный вариант(HTTPS)** | `https://dns.astracat.network/dns-query` |
-| **🔹 DoT (TLS)** | `dns.astracat.network` |
+| **🔹 DoH с поддержкой ODoH самый надёжный вариант(HTTPS)** | `https://dns.commonnet.work/dns-query` |
+| **🔹 DoT (TLS)** | `dns.commonnet.work` |
 
 ---
 
