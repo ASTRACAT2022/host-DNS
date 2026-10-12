@@ -4,260 +4,260 @@
 
 
 # ── Static hosts (hosts_a_* rules) ──
-87.58.213.207 tracker.openbittorrent.com
-87.58.213.207 ntc.party
-87.58.213.207 controlplane.tailscale.com
-87.58.213.207 game.clashroyaleapp.com
-87.58.213.207 gamea.clashofclans.com
-87.58.213.207 game.brawlstarsgame.com
-87.58.213.207 game.squadbustersgame.com
-87.58.213.207 game.mocogame.com
-87.58.213.207 d.rutor.info
-87.58.213.207 instagram.com
-87.58.213.207 www.instagram.com
-87.58.213.207 b.i.instagram.com
-87.58.213.207 z-p42-chat-e2ee-ig.facebook.com
-87.58.213.207 help.instagram.com
-
-
-87.58.213.207 chatgpt.com
-87.58.213.207 ab.chatgpt.com
-87.58.213.207 auth.openai.com
-87.58.213.207 auth0.openai.com
-87.58.213.207 platform.openai.com
-87.58.213.207 cdn.oaistatic.com
-87.58.213.207 files.oaiusercontent.com
-87.58.213.207 tcr9i.chat.openai.com
-87.58.213.207 webrtc.chatgpt.com
-87.58.213.207 android.chat.openai.com
-87.58.213.207 api.openai.com
-87.58.213.207 operator.chatgpt.com
-87.58.213.207 sora.chatgpt.com
-87.58.213.207 sora.com
-87.58.213.207 videos.openai.com
-87.58.213.207 ios.chat.openai.com
-87.58.213.207 cdn.platform.openai.com
-87.58.213.207 developers.openai.com
-
-
-87.58.213.207 copilot.microsoft.com
-87.58.213.207 edgeservices.bing.com
-87.58.213.207 rewards.bing.com
-87.58.213.207 xsts.auth.xboxlive.com
-87.58.213.207 xgpuwebf2p.gssv-play-prod.xboxlive.com
-87.58.213.207 xgpuweb.gssv-play-prod.xboxlive.com
-
-
-
-
-
-87.58.213.207 api.github.com
-87.58.213.207 api.individual.githubcopilot.com
-87.58.213.207 proxy.individual.githubcopilot.com
-
-87.58.213.207 datalore.jetbrains.com
-87.58.213.207 plugins.jetbrains.com
-87.58.213.207 download.jetbrains.com
-87.58.213.207 api.jetbrains.ai
-87.58.213.207 account.jetbrains.com
-
-
-87.58.213.207 elevenlabs.io
-87.58.213.207 api.us.elevenlabs.io
-87.58.213.207 elevenreader.io
-87.58.213.207 api.elevenlabs.io
-87.58.213.207 help.elevenlabs.io
-
-
-87.58.213.207 grok.com
-87.58.213.207 accounts.x.ai
-87.58.213.207 assets.grok.com
-
-
-87.58.213.207 api.tidal.com
-87.58.213.207 listen.tidal.com
-87.58.213.207 login.tidal.com
-87.58.213.207 auth.tidal.com
-87.58.213.207 link.tidal.com
-87.58.213.207 dd.tidal.com
-87.58.213.207 resources.tidal.com
-87.58.213.207 images.tidal.com
-87.58.213.207 fsu.fa.tidal.com
-87.58.213.207 geolocation.onetrust.com
-87.58.213.207 api.squareup.com
-87.58.213.207 api-global.squareup.com
-
-
-87.58.213.207 cdn.id.supercell.com
-87.58.213.207 security.id.supercell.com
-87.58.213.207 accounts.supercell.com
-87.58.213.207 game-assets.clashroyaleapp.com
-87.58.213.207 game-assets.clashofclans.com
-87.58.213.207 clashofclans.inbox.supercell.com
-87.58.213.207 game-assets.brawlstarsgame.com
-87.58.213.207 store.supercell.com
-
-
-87.58.213.207 deepl.com
-87.58.213.207 www.deepl.com
-87.58.213.207 www2.deepl.com
-87.58.213.207 login-wall.deepl.com
-87.58.213.207 w.deepl.com
-87.58.213.207 s.deepl.com
-87.58.213.207 dict.deepl.com
-87.58.213.207 ita-free.www.deepl.com
-87.58.213.207 write-free.www.deepl.com
-87.58.213.207 experimentation.deepl.com
-87.58.213.207 experimentation-grpc.deepl.com
-87.58.213.207 ita-free.app.deepl.com
-87.58.213.207 shield.deepl.com
-87.58.213.207 ott.deepl.com
-87.58.213.207 api-free.deepl.com
-87.58.213.207 backend.deepl.com
-87.58.213.207 clearance.deepl.com
-87.58.213.207 errortracking.deepl.com
-87.58.213.207 auth.deepl.com
-87.58.213.207 oneshot-free.www.deepl.com
-87.58.213.207 checkout.www.deepl.com
-87.58.213.207 gtm.deepl.com
-87.58.213.207 voice-proxy.www.deepl.com
+217.60.179.6 tracker.openbittorrent.com
+217.60.179.6 ntc.party
+217.60.179.6 controlplane.tailscale.com
+217.60.179.6 game.clashroyaleapp.com
+217.60.179.6 gamea.clashofclans.com
+217.60.179.6 game.brawlstarsgame.com
+217.60.179.6 game.squadbustersgame.com
+217.60.179.6 game.mocogame.com
+217.60.179.6 d.rutor.info
+217.60.179.6 instagram.com
+217.60.179.6 www.instagram.com
+217.60.179.6 b.i.instagram.com
+217.60.179.6 z-p42-chat-e2ee-ig.facebook.com
+217.60.179.6 help.instagram.com
+
+
+217.60.179.6 chatgpt.com
+217.60.179.6 ab.chatgpt.com
+217.60.179.6 auth.openai.com
+217.60.179.6 auth0.openai.com
+217.60.179.6 platform.openai.com
+217.60.179.6 cdn.oaistatic.com
+217.60.179.6 files.oaiusercontent.com
+217.60.179.6 tcr9i.chat.openai.com
+217.60.179.6 webrtc.chatgpt.com
+217.60.179.6 android.chat.openai.com
+217.60.179.6 api.openai.com
+217.60.179.6 operator.chatgpt.com
+217.60.179.6 sora.chatgpt.com
+217.60.179.6 sora.com
+217.60.179.6 videos.openai.com
+217.60.179.6 ios.chat.openai.com
+217.60.179.6 cdn.platform.openai.com
+217.60.179.6 developers.openai.com
+
+
+217.60.179.6 copilot.microsoft.com
+217.60.179.6 edgeservices.bing.com
+217.60.179.6 rewards.bing.com
+217.60.179.6 xsts.auth.xboxlive.com
+217.60.179.6 xgpuwebf2p.gssv-play-prod.xboxlive.com
+217.60.179.6 xgpuweb.gssv-play-prod.xboxlive.com
+
+
+
+
+
+217.60.179.6 api.github.com
+217.60.179.6 api.individual.githubcopilot.com
+217.60.179.6 proxy.individual.githubcopilot.com
+
+217.60.179.6 datalore.jetbrains.com
+217.60.179.6 plugins.jetbrains.com
+217.60.179.6 download.jetbrains.com
+217.60.179.6 api.jetbrains.ai
+217.60.179.6 account.jetbrains.com
+
+
+217.60.179.6 elevenlabs.io
+217.60.179.6 api.us.elevenlabs.io
+217.60.179.6 elevenreader.io
+217.60.179.6 api.elevenlabs.io
+217.60.179.6 help.elevenlabs.io
+
+
+217.60.179.6 grok.com
+217.60.179.6 accounts.x.ai
+217.60.179.6 assets.grok.com
+
+
+217.60.179.6 api.tidal.com
+217.60.179.6 listen.tidal.com
+217.60.179.6 login.tidal.com
+217.60.179.6 auth.tidal.com
+217.60.179.6 link.tidal.com
+217.60.179.6 dd.tidal.com
+217.60.179.6 resources.tidal.com
+217.60.179.6 images.tidal.com
+217.60.179.6 fsu.fa.tidal.com
+217.60.179.6 geolocation.onetrust.com
+217.60.179.6 api.squareup.com
+217.60.179.6 api-global.squareup.com
+
+
+217.60.179.6 cdn.id.supercell.com
+217.60.179.6 security.id.supercell.com
+217.60.179.6 accounts.supercell.com
+217.60.179.6 game-assets.clashroyaleapp.com
+217.60.179.6 game-assets.clashofclans.com
+217.60.179.6 clashofclans.inbox.supercell.com
+217.60.179.6 game-assets.brawlstarsgame.com
+217.60.179.6 store.supercell.com
+
+
+217.60.179.6 deepl.com
+217.60.179.6 www.deepl.com
+217.60.179.6 www2.deepl.com
+217.60.179.6 login-wall.deepl.com
+217.60.179.6 w.deepl.com
+217.60.179.6 s.deepl.com
+217.60.179.6 dict.deepl.com
+217.60.179.6 ita-free.www.deepl.com
+217.60.179.6 write-free.www.deepl.com
+217.60.179.6 experimentation.deepl.com
+217.60.179.6 experimentation-grpc.deepl.com
+217.60.179.6 ita-free.app.deepl.com
+217.60.179.6 shield.deepl.com
+217.60.179.6 ott.deepl.com
+217.60.179.6 api-free.deepl.com
+217.60.179.6 backend.deepl.com
+217.60.179.6 clearance.deepl.com
+217.60.179.6 errortracking.deepl.com
+217.60.179.6 auth.deepl.com
+217.60.179.6 oneshot-free.www.deepl.com
+217.60.179.6 checkout.www.deepl.com
+217.60.179.6 gtm.deepl.com
+217.60.179.6 voice-proxy.www.deepl.com
 
 
-87.58.213.207 deezer.com
-87.58.213.207 www.deezer.com
-87.58.213.207 payment.deezer.com
+217.60.179.6 deezer.com
+217.60.179.6 www.deezer.com
+217.60.179.6 payment.deezer.com
 
 
-87.58.213.207 weather.com
-87.58.213.207 upsx.weather.com
+217.60.179.6 weather.com
+217.60.179.6 upsx.weather.com
 
 
-87.58.213.207 api.fitbit.com
-87.58.213.207 fitbit-pa.googleapis.com
-87.58.213.207 fitbitvestibuleshim-pa.googleapis.com
-87.58.213.207 fitbit.google.com
-87.58.213.207 gemini.google.com
-87.58.213.207 aistudio.google.com
-87.58.213.207 generativelanguage.googleapis.com
-87.58.213.207 aitestkitchen.withgoogle.com
-87.58.213.207 aisandbox-pa.googleapis.com
-87.58.213.207 webchannel-alkalimakersuite-pa.clients6.google.com
-87.58.213.207 alkalimakersuite-pa.clients6.google.com
-87.58.213.207 assistant-s3-pa.googleapis.com
-87.58.213.207 proactivebackend-pa.googleapis.com
-87.58.213.207 robinfrontend-pa.googleapis.com
-87.58.213.207 o.pki.goog
-87.58.213.207 labs.google
-87.58.213.207 notebooklm.google.com
-87.58.213.207 jules.google.com
-87.58.213.207 stitch.withgoogle.com
+217.60.179.6 api.fitbit.com
+217.60.179.6 fitbit-pa.googleapis.com
+217.60.179.6 fitbitvestibuleshim-pa.googleapis.com
+217.60.179.6 fitbit.google.com
+217.60.179.6 gemini.google.com
+217.60.179.6 aistudio.google.com
+217.60.179.6 generativelanguage.googleapis.com
+217.60.179.6 aitestkitchen.withgoogle.com
+217.60.179.6 aisandbox-pa.googleapis.com
+217.60.179.6 webchannel-alkalimakersuite-pa.clients6.google.com
+217.60.179.6 alkalimakersuite-pa.clients6.google.com
+217.60.179.6 assistant-s3-pa.googleapis.com
+217.60.179.6 proactivebackend-pa.googleapis.com
+217.60.179.6 robinfrontend-pa.googleapis.com
+217.60.179.6 o.pki.goog
+217.60.179.6 labs.google
+217.60.179.6 notebooklm.google.com
+217.60.179.6 jules.google.com
+217.60.179.6 stitch.withgoogle.com
 
 
-87.58.213.207 claude.ai
-87.58.213.207 console.anthropic.com
-87.58.213.207 api.anthropic.com
-87.58.213.207 platform.claude.com
-87.58.213.207 a.claude.ai
+217.60.179.6 claude.ai
+217.60.179.6 console.anthropic.com
+217.60.179.6 api.anthropic.com
+217.60.179.6 platform.claude.com
+217.60.179.6 a.claude.ai
 
 
-87.58.213.207 trae-api-sg.mchost.guru
-87.58.213.207 api.trae.ai
-87.58.213.207 api-sg-central.trae.ai
-87.58.213.207 api16-normal-alisg.mchost.guru
+217.60.179.6 trae-api-sg.mchost.guru
+217.60.179.6 api.trae.ai
+217.60.179.6 api-sg-central.trae.ai
+217.60.179.6 api16-normal-alisg.mchost.guru
 
 
-87.58.213.207 linear.app
-87.58.213.207 client-api.linear.app
-87.58.213.207 static.linear.app
-87.58.213.207 constellation.linear.app
-87.58.213.207 uploads.linear.app
-87.58.213.207 public.linear.app
-87.58.213.207 s.linear.app
+217.60.179.6 linear.app
+217.60.179.6 client-api.linear.app
+217.60.179.6 static.linear.app
+217.60.179.6 constellation.linear.app
+217.60.179.6 uploads.linear.app
+217.60.179.6 public.linear.app
+217.60.179.6 s.linear.app
 
 
-87.58.213.207 windsurf.com
-87.58.213.207 codeium.com
-87.58.213.207 server.codeium.com
-87.58.213.207 web-backend.codeium.com
-87.58.213.207 unleash.codeium.com
-87.58.213.207 inference.codeium.com
-87.58.213.207 windsurf-stable.codeium.com
-87.58.213.207 windsurf-telemetry.codeium.com
-87.58.213.207 marketplace.windsurf.com
+217.60.179.6 windsurf.com
+217.60.179.6 codeium.com
+217.60.179.6 server.codeium.com
+217.60.179.6 web-backend.codeium.com
+217.60.179.6 unleash.codeium.com
+217.60.179.6 inference.codeium.com
+217.60.179.6 windsurf-stable.codeium.com
+217.60.179.6 windsurf-telemetry.codeium.com
+217.60.179.6 marketplace.windsurf.com
 
 
-87.58.213.207 usher.ttvnw.net
-87.58.213.207 gql.twitch.tv
+217.60.179.6 usher.ttvnw.net
+217.60.179.6 gql.twitch.tv
 
 
-87.58.213.207 manus.im
-87.58.213.207 api.manus.im
+217.60.179.6 manus.im
+217.60.179.6 api.manus.im
 
 
-87.58.213.207 www.notion.so
-87.58.213.207 calendar.notion.so
+217.60.179.6 www.notion.so
+217.60.179.6 calendar.notion.so
 
 
-87.58.213.207 www.canva.com
-87.58.213.207 content-management-files.canva.com
-87.58.213.207 static.canva.com
+217.60.179.6 www.canva.com
+217.60.179.6 content-management-files.canva.com
+217.60.179.6 static.canva.com
 
 
-87.58.213.207 www.intel.com
+217.60.179.6 www.intel.com
 
 
-87.58.213.207 www.dell.com
+217.60.179.6 www.dell.com
 
 
-87.58.213.207 www.tiktok.com
+217.60.179.6 www.tiktok.com
 
 
-87.58.213.207 web.archive.org
+217.60.179.6 web.archive.org
 
 
-87.58.213.207 developer.nvidia.com
+217.60.179.6 developer.nvidia.com
 
 
-87.58.213.207 builds.parsec.app
+217.60.179.6 builds.parsec.app
 
 
-87.58.213.207 tria.ge
+217.60.179.6 tria.ge
 
 
-87.58.213.207 www.qwant.com
+217.60.179.6 www.qwant.com
 
 
-87.58.213.207 guidedhacking.com
+217.60.179.6 guidedhacking.com
 
 
-87.58.213.207 framer.com
+217.60.179.6 framer.com
 
 
-87.58.213.207 accounts.autodesk.com
-87.58.213.207 www.autodesk.com
+217.60.179.6 accounts.autodesk.com
+217.60.179.6 www.autodesk.com
 
 
-87.58.213.207 pump.fun
-87.58.213.207 frontend-api-v3.pump.fun
-87.58.213.207 images.pump.fun
-87.58.213.207 swap-api.pump.fun
+217.60.179.6 pump.fun
+217.60.179.6 frontend-api-v3.pump.fun
+217.60.179.6 images.pump.fun
+217.60.179.6 swap-api.pump.fun
 
 
-87.58.213.207 truthsocial.com
-87.58.213.207 static-assets-1.truthsocial.com
+217.60.179.6 truthsocial.com
+217.60.179.6 static-assets-1.truthsocial.com
 
 
-87.58.213.207 www.elgato.com
+217.60.179.6 www.elgato.com
 
 
-87.58.213.207 api.imgur.com
+217.60.179.6 api.imgur.com
 
 
-87.58.213.207 dyson.com
+217.60.179.6 dyson.com
 
 
-87.58.213.207 profile.broadcom.com
+217.60.179.6 profile.broadcom.com
 
 
-87.58.213.207 patreon.com
-87.58.213.207 www.patreon.com
+217.60.179.6 patreon.com
+217.60.179.6 www.patreon.com
